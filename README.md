@@ -1,9 +1,9 @@
-----Article Name ----
+Progress Notifiation with CSS
 ================
 
-----Article Name ---- 
+Progress Notifiation with CSS
 
-This is a demo code to ----Article Name ---- made for article on Techstream ----Article Link----
+This is a demo code Progress Notifiation with CSS made for article on Techstream -http://techstream.org/Web-Development/Progress-Notifiation-with-CSS
 
 Credits
 -------

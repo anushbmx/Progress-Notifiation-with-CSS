@@ -95,6 +95,10 @@ a{
 	text-decoration: none;
 }
 
+a.current{
+	background-color: rgba(13,89,195,0.2);	
+}
+
 a:hover{
 	text-decoration: underline;
 }
@@ -247,4 +251,8 @@ a.carbon-text{
 
 .align-right{
 	text-align: right;
+}
+
+.align-center{
+	text-align: center;
 }
